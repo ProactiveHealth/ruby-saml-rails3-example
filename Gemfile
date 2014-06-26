@@ -7,7 +7,7 @@ source 'http://rubygems.org'
 #gem 'ruby-saml', :git => "git://github.com/calh/ruby-saml.git", :branch => "add_slo"
 gem 'ruby-saml', :git => "git://github.com/calh/ruby-saml.git"
 
-gem 'therubyracer' 
+gem 'therubyracer', '0.11.3'
 gem 'rails', '3.1.1'
 
 # Bundle edge Rails instead:
